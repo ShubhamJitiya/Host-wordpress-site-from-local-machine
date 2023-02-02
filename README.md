@@ -42,5 +42,16 @@ How to upload wordpress site from local host to live server with all errors reso
 	- Update permalink to post
 
 11. ALL DONE ENJOY YOUR SITE
-	
+
+Videos to refer:
+1.  [Complete setup - 000wedhost](https://youtu.be/vVqlYHdQHP4)
+2. [Complete setup - General](https://youtu.be/E_3ljmegi9Q)
+3. [Publishing failed](https://youtu.be/dkSgTEGUq-o)
+4. [Ftp_put(): Can’t open that file](https://youtu.be/NBvg6JJtzDo)
+5. [Network error when i exporting](https://youtu.be/yEWlyAjKH6M)
+6. [mysqli_real_connect(): (HY000/1130)](https://youtu.be/vzs9Z12OTE4)
+7. [FileZilla to Connect FTP](https://youtu.be/pA_ORnPMeL4)
+
+Spent almost more than 16+ hour in solving errors🥲
+Here is the notes to never forget again😎🌝
 	
