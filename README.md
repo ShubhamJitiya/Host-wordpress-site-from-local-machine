@@ -22,8 +22,10 @@ How to upload wordpress site from local host to live server with all errors reso
 	- export db from local machine 
 	- [ in case facing issue while exporting download 5.3+ of php admin and replace all file of PHPMyAdmin : https://www.phpmyadmin.net/downloads/]
 	- https://www.youtube.com/watch?v=yEWlyAjKH6M&list=LL&index=1
-	
-7. Edit exported .sql file
+7. Update public_html
+	- Update dbname, dbusername, pass as per point 6 in 'wp-config.php' under file manager/public html
+	- 
+8. Edit exported .sql file
 	- Update url [http://localhost:9090/dir1/dir2...] to your url/domain 
 		TO 	ALL 	PLACES
 	- Update dbname, dbusername, pass as per point 6. [Must check pass not as 		per profile sometimes]
@@ -32,13 +34,13 @@ How to upload wordpress site from local host to live server with all errors reso
 		- write skip-grant-tables above port = XXXX;
 		[https://www.youtube.com/watch?v=vzs9Z12OTE4&list=LL&index=2&t=130s]
 
-8. Import to databaseManager > phpAdmin
+9. Import to databaseManager > phpAdmin
 	- Inside under your dbname refer point 6
 
-9. Unable to publish or access pages?
+10. Unable to publish or access pages?
 	- Check whether all 'localhost' is replaced with your url?
 	- Update permalink to post
 
-10. ALL DONE ENJOY YOUR SITE
+11. ALL DONE ENJOY YOUR SITE
 	
 	
