@@ -13,7 +13,7 @@ How to upload wordpress site from local host to live server with all errors reso
 	- After establishing connection: drag-drop files from local to server 		[LHS TO RHS]
 
 5. Once both file uploaded, extract wordpress.zip by unzipper
-	- write in url (browser - in file manager of server) ../unzipper
+	- write in url (browser - in file manager of server) (https://aaradhya-classes.000webhostapp.com/unzipper.php)
 	- Click on unzip archive
 	- move all wordpress files to root file [public html]
 	
