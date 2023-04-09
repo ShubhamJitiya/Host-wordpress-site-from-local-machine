@@ -36,6 +36,7 @@ How to upload wordpress site from local host to live server with all errors reso
 
 9. Import to databaseManager > phpAdmin
 	- Inside under your dbname refer point 6
+	- Make sure to upload in created db not to `information_schema`
 
 10. Unable to publish or access pages?
 	- Check whether all 'localhost' is replaced with your url?
